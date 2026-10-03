@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+.vscode/
+
+# YOLO model cache
+yolov8s-world.pt
+
+# Temporary generated images
+animal_crop.jpg
+camouflage_crop.jpg
+ 
+# Original large dataset
+dataset/
+
+# Large model weights
+weights/
